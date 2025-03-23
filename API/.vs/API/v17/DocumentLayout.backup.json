@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\neilm\\Desktop\\DatingApp\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|c:\\users\\neilm\\desktop\\datingapp\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|c:\\users\\neilm\\desktop\\datingapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|c:\\users\\neilm\\desktop\\datingapp\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|c:\\users\\neilm\\desktop\\datingapp\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A482AE93-DD10-4D52-AF64-5C2735092A0E}|API.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\neilm\\Desktop\\DatingApp\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\neilm\\Desktop\\DatingApp\\API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\neilm\\Desktop\\DatingApp\\API\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
