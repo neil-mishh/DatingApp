@@ -15,11 +15,11 @@ namespace API.Controllers
         }
 
         [HttpGet("not-found")]
-        public ActionResult<string> GetNotFound()
+        public ActionResult<AppUser> GetNotFound()
         {
             var thing = context.Users.Find(-1);     //find a user that cannot exist in db
             if (thing == null) return NotFound();
-            else return Ok(thing);
+            return thing;
         }
 
         [HttpGet("server-error")]
@@ -32,7 +32,7 @@ namespace API.Controllers
         [HttpGet("bad-request")]
         public ActionResult<AppUser> GetBadRequest()
         {
-            return BadRequest("Bad request");
+            return BadRequest("Bad request not good ");
         }
     }
 }
